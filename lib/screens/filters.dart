@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-// import 'package:meals/screens/tabs.dart';
-// import 'package:meals/widgets/main_drawer.dart';
-import 'package:meals/providers/filters_provider.dart';
+// import 'package:meals_app_animation/screens/tabs.dart';
+// import 'package:meals_app_animation/widgets/main_drawer.dart';
+import 'package:meals_app_animation/providers/filters_provider.dart';
 
 class FiltersScreen extends ConsumerWidget {
   const FiltersScreen({super.key});
